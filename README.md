@@ -12,3 +12,7 @@ It is a website for ordering the various products and finding the total cost of 
 * **HTML** - Basic layout of Website .
 * **CSS** - Styling of Website .
 * **JAVASCRIPT** - Ordering and finding the total amount of our selected products .
+
+# Comments :-
+
+Changing and reconstruction of this project is accepted and feel free to give any suggestions to improve the performance of the project .
